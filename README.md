@@ -1,2 +1,4 @@
-# telegram-group-manager-bot
+# STGMB (SMALL TELEGRAM GROUP MANAGER BOT)
 An sample Telegram Group manager
+
+(IN PROGRESS)
